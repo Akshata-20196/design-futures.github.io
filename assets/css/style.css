@@ -1,8 +1,8 @@
----
----
-
-@import "{{ site.theme }}";
-
 * {
     font-family: serif;
+}
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
 }
