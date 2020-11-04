@@ -11,6 +11,8 @@ As much as possible, do not add any third-party packages.
 
 Work on your branch and send a Pull Request once done.
 
+Building locally for development:
+
 ```
 git clone https://github.com/design-futures/design-futures.github.io
 cd design-futures.github.io
