@@ -22,13 +22,13 @@ bundle exec jekyll serve --livereload
 Roadmap
 -------
 
-T  | W  | Th | F  | S  | S  | M  | T  | W  |
-01 | 01 
-   | 02 | 03 | 04 | 04 | 04 | 04 | 04 | 05 |
+T  | W  | Th | F  | S  | S  | M  | T  | W  | Th |
+01 | 01 | 01 |
+        | 02 | 03 | 04 | 04 | 04 | 04 | 04 | 05 |
         | 06 | 06 | 06 | 06 | 06 | 06 | 06 |
 
 >> 01 Concept - Sketch and decide layout for the website
-   02 Make 1  - Build _layout templates for the final layouts
+.. 02 Make 1  - Build _layout templates for the final layouts
    03 Make 2  - Add css/styling 
    04 Content - Add project content
    05 Proof   - Proof website content
